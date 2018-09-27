@@ -1,0 +1,6 @@
+1,Action
+2,Adventure
+3,Strategy
+4,RPG
+5,MOBA
+6,Tower Defence
